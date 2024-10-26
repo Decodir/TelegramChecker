@@ -1,11 +1,16 @@
 {
 	"lastver": "2",
 	"nlink": "https://github.com/Decodir/TelegramChecker/raw/main/TelegramChecker.luac",
+	"three": [
+		["Name_Nick", 5000],
+		["Name_Nick", 5000]
+		],
 	"one": [
 		["Alex_Wilde", 3000],
 		["Lana_Wilde", 3000],
 		["Name_Nick", 5000],
 		["Name_Nick", 5000],
 		["Name_Nick", 5000]
-		]
+		],
+	"two": []
 }
